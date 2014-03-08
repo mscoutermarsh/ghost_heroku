@@ -50,7 +50,7 @@
         "semver": "2.2.1",
         "showdown": "0.3.1",
         "underscore": "1.5.2",
-        "parse-database-url", "*",
+        "parse-database-url": "*",
         "pg": "latest",
         "sqlite3": "2.1.19",
         "unidecode": "0.1.3",
